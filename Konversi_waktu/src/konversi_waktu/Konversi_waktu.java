@@ -7,8 +7,8 @@ package konversi_waktu;
 
 /**
  *
- * @author HAFID ENDAR NUGROHO
- * A11.2019.12157
+ * @author 
+ * 
  */
 
 abstract class time{
